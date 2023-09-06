@@ -95,4 +95,4 @@ If you are interested in Azure, you can study the following course. This course 
 ## Roadmap: Large Language Models: LLMS
 - Large Language Models (LLMs) are advanced artificial intelligence models trained on vast amounts of text data to understand and generate human-like language.
 - They are based on transformer architectures like GPT (Generative Pre-trained Transformer) and have a wide range of applications in natural language understanding, text generation, and conversation. LLMs, such as GPT-3.5, are among the largest and most powerful language models developed to date, capable of assisting with tasks like answering questions, providing explanations, and engaging in conversation with users.
-- __[YouTube Tutorial for LLMs](https://www.youtube.com/watch?v=MLLLDaR6P08&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)__
+   - __[YouTube Tutorial for LLMs](https://www.youtube.com/watch?v=MLLLDaR6P08&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)__
