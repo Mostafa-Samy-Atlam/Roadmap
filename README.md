@@ -60,7 +60,7 @@ All previous courses can be considered crash courses that would take only one we
    		- Linear Algebra for Machine Learning and Data Science.
    		- Calculus for Machine Learning and Data Science.
    		- Probability & Statistics for Machine Learning & Data Science.
-- __[Mathematics for Machine Learning Specialization "Coursera"](https://www.coursera.org/specializations/mathematics-machine-learning)__
+- __[Mathematics for Machine Learning Specialization "Imperial College London Coursera"](https://www.coursera.org/specializations/mathematics-machine-learning)__
 	- This link contains 3 courses:
    		- Mathematics for Machine Learning: Linear Algebra.
    		- Mathematics for Machine Learning: Multivariate Calculus.
