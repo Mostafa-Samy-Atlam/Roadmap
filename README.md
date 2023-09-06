@@ -83,11 +83,13 @@ You can choose one of the following courses:
 - After learning the topics mentioned above, you will can build AI applications from scratch. Now, you need to be able to deploy these applications and scale them. To do this, you need to learn how to put models in production with popular cloud platforms — Google Cloud, Amazon AWS, and Microsoft Azure. Pick any of these three platforms and start learning how to deploy models on them. Cloud computing is an essential skill for an AI engineer to have, so make sure to gain as much experience as possible in using these platforms.
 - This would take us to MLOPS, you should be good at one of the MLOPS frameworks.
 
+If you are interested in AWS platform, you can study one of the following 3 courses. All of these courses are about Amazon SageMaker which is a fully managed machine learning service that an help developers to build and train machine learning models, and then directly deploy them into a production-ready hosted environment easily and quickly.
 #### __Amazon-Sagemaker for machine learning:__
 - __[https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew]__
 - __[https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/]__
 - __[https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/]__
-  
+
+If you are interested in Azure, you can study the following course. This course is about Azure tool for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure.
 #### __[Azure tool for machine learning](https://www.udemy.com/course/mlops-course/)__
 ### Large Language Models: LLMS
 - Language models (LMs) work by learning the statistical patterns and relationships within language data. They are typically based on deep learning architectures, such as recurrent neural networks (RNNs) or transformers.
