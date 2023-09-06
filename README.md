@@ -49,7 +49,7 @@ This would take only one week to complete.
 ## Mathematics
 ### For mathematics, you can study crash courses that conclude the most important concepts in mathematics for AI.
 - __[Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2)__
-- The next .__[video](https://www.youtube.com/watch?v=1VSZtNYMntM&t=3326s)__ is also a good video for summarizing most important math concepts for AI, it is around 100 minutes
+- This .__[video](https://www.youtube.com/watch?v=1VSZtNYMntM&t=3326s)__ is also a good video for summarizing most important math concepts for AI, it is around 100 minutes
 - __[Udemy crash course for AI mathematics](https://www.udemy.com/course/mathematical-foundation-for-machine-learning-and-ai/)__
 
 All previous courses can be considered crash courses that would take only one week to finish.
