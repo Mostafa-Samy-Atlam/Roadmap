@@ -55,12 +55,12 @@ This would take only one week to complete.
 All previous courses can be considered crash courses that would take only one week to finish.
 ### You can study the next courses after finishing the whole roadmap.
 > DeepLearning.AI:
-- __[https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science]__
+- __[Mathematics for Machine Learning and Data Science Specialization "DeepLearning.AI Coursera"](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)__
 	- This link contains 3 courses:
    		- Linear Algebra for Machine Learning and Data Science.
    		- Calculus for Machine Learning and Data Science.
    		- Probability & Statistics for Machine Learning & Data Science.
-- __[https://www.coursera.org/specializations/mathematics-machine-learning]__
+- __[Mathematics for Machine Learning Specialization "Coursera"](https://www.coursera.org/specializations/mathematics-machine-learning)__
 	- This link contains 3 courses:
    		- Mathematics for Machine Learning: Linear Algebra.
    		- Mathematics for Machine Learning: Multivariate Calculus.
