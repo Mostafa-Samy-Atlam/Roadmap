@@ -89,7 +89,7 @@ If you are interested in AWS platform, you can study one of the following 3 cour
 - __[https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/]__
 - __[https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/]__
 
-If you are interested in Azure, you can study the following course. This course is about Azure tool for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure.
+If you are interested in Azure, you can study the following course. This course is about the tool provided by Azure for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure.
 #### __[Azure tool for machine learning](https://www.udemy.com/course/mlops-course/)__
 ### Large Language Models: LLMS
 - Language models (LMs) work by learning the statistical patterns and relationships within language data. They are typically based on deep learning architectures, such as recurrent neural networks (RNNs) or transformers.
