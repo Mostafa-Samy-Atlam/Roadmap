@@ -73,9 +73,9 @@ You can choose one of the following courses:
  This step would take around two weeks to complete according to your choice from these two courses, it would require 1 to 2 hours a day to finish in the specified duration.
  ## Deep Learning
  You can choose one of the following courses:
+  - __[Deep Learning Udemy Course](https://www.udemy.com/course/deeplearning_x/)__ - This is a very good course that would take also around a month to complete (I recommend this course for beginners).
  - __[DeepLearning.AI Specialization](https://www.coursera.org/specializations/deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_deep-learning_deeplearning-ai_FTCOF_specializations_pmax-nonNRL-within-14d&campaignid=20131140422&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=CjwKCAjwo9unBhBTEiwAipC112QQ1uqESaWhRpVNpqlYm8PS0s_FnfcvjOMnfDs0fUGbSf14YkeRThoCz_EQAvD_BwE)__
  - __[Deep Learning "Arabic Content"](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UiBoBDgeu5T3TyOIrgQ3r9)__ - If you choose this direction, it can take around a month to complete at maximum.
- - __[Deep Learning Udemy Course](https://www.udemy.com/course/deeplearning_x/)__ - This is a very good course that would take also around a month to complete (I recommend this course for beginners).
  - __[Deep Learning YouTube](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)__ - This is a small course that can be used as introductory course or for revision.
 ## Roadmap: Model Deployment
 ### Model Deployment:
