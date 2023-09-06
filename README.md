@@ -93,13 +93,6 @@ If you are interested in Azure, you can study the following course. This course 
 #### __[Azure tool for machine learning](https://www.udemy.com/course/mlops-course/)__
 
 ## Roadmap: Large Language Models: LLMS
-- Language models (LMs) work by learning the statistical patterns and relationships within language data. They are typically based on deep learning architectures, such as recurrent neural networks (RNNs) or transformers.
-- Here's a general overview of how language models work:
-	1.	Training data: Language models are trained on large amounts of text data, which can include books, articles, websites, and other sources of written language. The training data is used to expose the model to a wide range of language patterns and structures.
-	2.	Tokenization: The text data is divided into smaller units called tokens. Tokens can be individual words, subwords, or characters, depending on the specific tokenization approach used. Tokenization helps the model process and understand the text.
-	3.	Model architecture: Language models are typically built using deep learning architectures. Recurrent neural networks (RNNs) were commonly used in the past, but transformer-based architectures, such as the one used in the GPT models, have gained popularity due to their superior performance.
-	4.	Pre-training: The language model is then pre-trained on the tokenized text data. During pre-training, the model learns to predict the next word in a sequence of words based on the context provided by the preceding words. This process allows the model to learn the statistical patterns and dependencies in the training data.
-	5.	Fine-tuning: After pre-training, the language model can be further fine-tuned for specific downstream tasks. Fine-tuning involves training the model on a more specific dataset related to the target task. This process helps the model adapt its learned representations to the particular task at hand.
-	6.	Inference and generation: Once the language model is trained, it can be used for various tasks. During inference, the model takes input text and generates output text based on the learned patterns and context. This can involve generating completions for partial sentences, answering questions, or generating creative text based on a given prompt.
-
-__[https://www.youtube.com/watch?v=MLLLDaR6P08&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm]__
+- Large Language Models (LLMs) are advanced artificial intelligence models trained on vast amounts of text data to understand and generate human-like language.
+- They are based on transformer architectures like GPT (Generative Pre-trained Transformer) and have a wide range of applications in natural language understanding, text generation, and conversation. LLMs, such as GPT-3.5, are among the largest and most powerful language models developed to date, capable of assisting with tasks like answering questions, providing explanations, and engaging in conversation with users.
+- __[YouTube Tutorial for LLMs](https://www.youtube.com/watch?v=MLLLDaR6P08&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)__
