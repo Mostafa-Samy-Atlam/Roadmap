@@ -34,7 +34,7 @@ Generally, you can decrease the overall duration of studying by increasing the n
 You can choose one of the following courses:
 - __[Udemy Course](https://www.udemy.com/course/100-days-of-code/)__ - This is a very good course that explains all aspects of python (it would take a long time to study).
 + __YouTube Channel:__
-If this was your choice, you have to study all the following links:
+If this was your choice, you have to study all the following four links:
  	+ __[Python Fundamentals](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0)__
 	- __[Pandas Tutorial](https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)__
 	+ __[NumPy Tutorial](https://www.youtube.com/playlist?list=PLUcmakntVocWGSKXIsUn1J7Wm9ekpZ87G)__
