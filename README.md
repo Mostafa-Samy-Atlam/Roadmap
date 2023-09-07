@@ -18,7 +18,7 @@ Before we have a talk about roadmap of how to be a good AI engineer, we must fir
 - An understanding of software development methodologies like Agile or Scrum
 -	Experience with cloud computing
 -	Knowledge of Data science, data wrangling, and big data.
-### Note: this roadmap is my point of view for courses recommendations to be a good AI Engineer. 
+### Note: this roadmap is my point of view for courses recommendations to be a good AI Engineer. If one of the courses didn't fit you, you can find another one that fits you. The most important thing is to finish the main points of the roadmap regardless of the course you will study from.
 ## Roadmap: Basic Computer Science Skills
 1. Consider obtaining a degree in a related field, as AI engineering requires a strong educational background. Typically, AI engineers hold a bachelor’s degree in computer science, data science, mathematics, or a related discipline. While it isn’t always required, a master’s degree in these AI-related fields can prove beneficial. 
 - Typically, you must learn computer science basics. What is bits and bytes and how RAM and CPU works. The fundamental of computer science. 
