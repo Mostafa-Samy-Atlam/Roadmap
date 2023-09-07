@@ -1,5 +1,5 @@
 # Roadmap
-### Note: this roadmap is my point of view for courses recommendations to be a good AI Engineer. If one of the courses didn't fit you, you can find another one that fits you. The most important thing is to finish the main points of the roadmap regardless of the course you will study from.
+### Note: this roadmap is my point of view for courses recommendations to be an AI Engineer. If one of the courses didn't fit you, you can find another one that fits you. The most important thing is to finish the main points of the roadmap regardless of the course you will study from.
 Before we have a talk about roadmap of how to be a good AI engineer, we must first answer the following question???
 -  What Does an AI Engineer Do?
 ## Roadmap: Roles and Responsibilities of an AI Engineer
@@ -20,7 +20,7 @@ Before we have a talk about roadmap of how to be a good AI engineer, we must fir
 -	Experience with cloud computing
 -	Knowledge of Data science, data wrangling, and big data.
 ## Roadmap: Basic Computer Science Skills
-1. Consider obtaining a degree in a related field, as AI engineering requires a strong educational background. Typically, AI engineers hold a bachelor’s degree in computer science, data science, mathematics, or a related discipline. While it isn’t always required, a master’s degree in these AI-related fields can prove beneficial. 
+Consider obtaining a degree in a related field, as AI engineering requires a strong educational background. Typically, AI engineers hold a bachelor’s degree in computer science, data science, mathematics, or a related discipline. While it isn’t always required, a master’s degree in these AI-related fields can prove beneficial. 
 - Typically, you must learn computer science basics. What is bits and bytes and how RAM and CPU works. The fundamental of computer science. 
 ![roadmap](https://github.com/Mostafa-Samy-Atlam/Roadmap/assets/78164140/d1a77ef3-9ae0-47b8-be4f-936772a18ec1)
 ## Programming skills
@@ -89,8 +89,7 @@ If you are interested in AWS platform, you can study one of the following 3 cour
 - __[Coursera Course for AWS-Sagemaker](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/)__
 - __[Youtube Playlist for AWS Sagemaker "You can use this for revision"](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)__
 
-If you are interested in Azure, you can study the following course. This course is about the tool provided by Azure for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure.
-#### __[Azure tool for machine learning](https://www.udemy.com/course/mlops-course/)__
+If you are interested in Azure, you can study the following course. This course is about the tool provided by Azure for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure - __[Azure tool for machine learning](https://www.udemy.com/course/mlops-course/)__
 
 ## Roadmap: Large Language Models: LLMS
 - Large Language Models (LLMs) are advanced artificial intelligence models trained on vast amounts of text data to understand and generate human-like language.
