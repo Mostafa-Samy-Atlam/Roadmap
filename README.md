@@ -89,7 +89,7 @@ If you are interested in AWS platform, you can study one of the following 3 cour
 - __[Coursera Course for AWS-Sagemaker](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/)__
 - __[Youtube Playlist for AWS Sagemaker "You can use this for revision"](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)__
 
-If you are interested in Azure, you can study the following course. This course is about the tool provided by Azure for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure - __[Azure tool for machine learning](https://www.udemy.com/course/mlops-course/)__
+If you are interested in Azure, you can study the following course. This course is about the tool provided by Azure for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure - __[Azure tool for machine learning "Udemy Course for MLOps in Azure"](https://www.udemy.com/course/mlops-course/)__
 
 ## Roadmap: Large Language Models: LLMS
 - Large Language Models (LLMs) are advanced artificial intelligence models trained on vast amounts of text data to understand and generate human-like language.
