@@ -1,15 +1,16 @@
 # Roadmap
+### Note: this roadmap is my point of view for courses recommendations to be a good AI Engineer. If one of the courses didn't fit you, you can find another one that fits you. The most important thing is to finish the main points of the roadmap regardless of the course you will study from.
 Before we have a talk about roadmap of how to be a good AI engineer, we must first answer the following question???
 -  What Does an AI Engineer Do?
 ## Roadmap: Roles and Responsibilities of an AI Engineer
-- Building AI models from scratch and assisting product managers and stakeholders with analysis and implementation 
-- Developing and maintaining AI infrastructures and product development
-- Performing statistical analysis and interpreting the results to guide and optimize the company’s decision-making
-- Automating the infrastructure used by the data science team
-- Transforming machine learning models into APIs that can be integrated with other applications
-- Training and retraining systems when necessary
-- Running AI and machine learning experiments and tests
-- Collaborating and coordinating tasks with other teams to promote AI adoption and best practices
+- Building AI models from scratch and assisting product managers and stakeholders with analysis and implementation.
+- Developing and maintaining AI infrastructures and product development.
+- Performing statistical analysis and interpreting the results to guide and optimize the company’s decision-making.
+- Automating the infrastructure used by the data science team.
+- Transforming machine learning models into APIs that can be integrated with other applications.
+- Training and retraining systems when necessary.
+- Running AI and machine learning experiments and tests.
+- Collaborating and coordinating tasks with other teams to promote AI adoption and best practices.
 ## Roadmap: What Skills Should an AI Engineer Have?
 - Learn programming languages - Proficiency in object-oriented programming languages like Python, C#, or C++ is needed to become an AI engineer.
 - An understanding of frameworks like Keras and Tensorflow to build AI solutions
@@ -18,7 +19,6 @@ Before we have a talk about roadmap of how to be a good AI engineer, we must fir
 - An understanding of software development methodologies like Agile or Scrum
 -	Experience with cloud computing
 -	Knowledge of Data science, data wrangling, and big data.
-### Note: this roadmap is my point of view for courses recommendations to be a good AI Engineer. If one of the courses didn't fit you, you can find another one that fits you. The most important thing is to finish the main points of the roadmap regardless of the course you will study from.
 ## Roadmap: Basic Computer Science Skills
 1. Consider obtaining a degree in a related field, as AI engineering requires a strong educational background. Typically, AI engineers hold a bachelor’s degree in computer science, data science, mathematics, or a related discipline. While it isn’t always required, a master’s degree in these AI-related fields can prove beneficial. 
 - Typically, you must learn computer science basics. What is bits and bytes and how RAM and CPU works. The fundamental of computer science. 
@@ -85,9 +85,9 @@ You can choose one of the following courses:
 
 If you are interested in AWS platform, you can study one of the following 3 courses. All of these courses are about Amazon SageMaker which is a fully managed machine learning service that an help developers to build and train machine learning models, and then directly deploy them into a production-ready hosted environment easily and quickly.
 #### __Amazon-Sagemaker for machine learning:__
-- __[https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew]__
-- __[https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/]__
-- __[https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/]__
+- __[Udemy Course for AWS-Sagemaker](https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/)__
+- __[Coursera Course for AWS-Sagemaker](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/)__
+- __[Youtube Playlist for AWS Sagemaker](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)__
 
 If you are interested in Azure, you can study the following course. This course is about the tool provided by Azure for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure.
 #### __[Azure tool for machine learning](https://www.udemy.com/course/mlops-course/)__
