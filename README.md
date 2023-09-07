@@ -87,7 +87,7 @@ If you are interested in AWS platform, you can study one of the following 3 cour
 #### __Amazon-Sagemaker for machine learning:__
 - __[Udemy Course for AWS-Sagemaker](https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/)__
 - __[Coursera Course for AWS-Sagemaker](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/)__
-- __[Youtube Playlist for AWS Sagemaker](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)__
+- __[Youtube Playlist for AWS Sagemaker "You can use this for revision"](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)__
 
 If you are interested in Azure, you can study the following course. This course is about the tool provided by Azure for MLOPS. This tool has the same usage as the tool stated above (Amazon Sagemeker) except that it is a service provided by Azure.
 #### __[Azure tool for machine learning](https://www.udemy.com/course/mlops-course/)__
